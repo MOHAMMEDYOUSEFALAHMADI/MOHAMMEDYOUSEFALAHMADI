@@ -2,7 +2,7 @@
 
 # Mohammed Alahmadi
 
-### Healthcare Data & Quality · Business Intelligence · Forecasting · AI
+### EMS Specialist (Saudi Red Crescent Authority, since 2012) · Healthcare Operations & Quality · AI in Healthcare
 
 <sub>تحليل بيانات الرعاية الصحية والجودة · ذكاء الأعمال · النمذجة التنبؤية · الذكاء الاصطناعي</sub>
 
@@ -24,7 +24,7 @@
 
 ## About · نبذة
 
-I turn operational and clinical data into decisions — from cleaning and exploration, to modelling, to rigorous validation, to a dashboard or report a decision-maker can act on.
+I am an **Emergency Medical Services Specialist at the Saudi Red Crescent Authority (SRCA)**, working in prehospital care since 2012. I turn operational and clinical data into decisions — from cleaning and exploration, to modelling, to rigorous validation, to a dashboard or report a decision-maker can act on.
 
 My background sits where **healthcare operations** meets **quantitative analysis**: I don't stop at the number, I trace the process that produced it.
 
@@ -112,6 +112,26 @@ AutoGluon (AutoML) · اختيار النماذج وتقييمها · معاير
 
 <div align="center">
 
+## ⭐ Featured Projects · مشاريع مميزة
+
+</div>
+
+| Project | What it shows |
+|---|---|
+| 🚑 **[ems-dispatch-ai](https://github.com/MOHAMMEDALAHMADI1/ems-dispatch-ai)** | Demand forecasting (gradient boosting), ambulance posting optimisation (MCLP, exact MILP), dispatch simulation and a Streamlit map dashboard for Riyadh (synthetic data). In simulation it cut median response from 9.9 to 7.8 min and raised the share of calls reached within 8 min from 33 % to 52 %. |
+| 🧪 **[ems-bench](https://github.com/MOHAMMEDALAHMADI1/ems-bench)** | Bilingual Arabic/English benchmark of 150 EMS protocol-reasoning items (START/JumpSTART triage, AHA weight-based dosing with unit traps, SBAR, contradiction traps), deterministic scorer, and an Arabic-English parity metric. |
+| 🔍 **[ems-response-audit-task](https://github.com/MOHAMMEDALAHMADI1/ems-response-audit-task)** | A multi-bug software-engineering eval task for coding agents: a dispatch-analytics codebase whose KPI silently "improves" after a schema migration. Graded by a hidden, cheat-resistant grader on fresh synthetic data. |
+
+<div dir="rtl" align="right">
+
+ثلاثة مشاريع تجمع خبرتي الميدانية في الإسعاف مع الذكاء الاصطناعي: تحسين تمركز سيارات الإسعاف وتقليل زمن الاستجابة، ومعيار ثنائي اللغة لتقييم نماذج الذكاء الاصطناعي في بروتوكولات الإسعاف، ومهمة تقييم برمجية لوكلاء الذكاء الاصطناعي. جميعها على بيانات اصطناعية.
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📂 Projects · المشاريع
 
 </div>
@@ -169,6 +189,7 @@ A complete forecasting pipeline: series diagnosis, a Seasonal Naive benchmark fl
 
 ### In Progress · قيد التطوير
 
+- **Real-model results for EMS-Bench**: baseline scores for open and closed models · نتائج نماذج فعلية على EMS-Bench
 - **Healthcare operations dashboards** — KPI design and operational monitoring · لوحات مؤشرات العمليات الصحية
 - **Digital platforms & apps** — business modelling and MVP development · منصات وتطبيقات رقمية
 
@@ -181,6 +202,12 @@ A complete forecasting pipeline: series diagnosis, a Seasonal Naive benchmark fl
 | Programme · البرنامج | Provider · الجهة | Output · المخرَج |
 |---|---|---|
 | Time Series & Forecasting · السلاسل الزمنية والتنبؤ | SDAIA | [Capstone project ↗](https://github.com/MOHAMMEDALAHMADI1/international-airpassengers-project) |
+
+---
+
+## 📫 Contact · التواصل
+
+- GitHub: [@MOHAMMEDALAHMADI1](https://github.com/MOHAMMEDALAHMADI1)
 
 ---
 
