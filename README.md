@@ -118,9 +118,9 @@ AutoGluon (AutoML) · اختيار النماذج وتقييمها · معاير
 
 | Project | What it shows |
 |---|---|
-| 🚑 **[ems-dispatch-ai](https://github.com/MOHAMMEDALAHMADI1/ems-dispatch-ai)** | Demand forecasting (gradient boosting), ambulance posting optimisation (MCLP, exact MILP), dispatch simulation and a Streamlit map dashboard for Riyadh (synthetic data). In simulation it cut median response from 9.9 to 7.8 min and raised the share of calls reached within 8 min from 33 % to 52 %. |
-| 🧪 **[ems-bench](https://github.com/MOHAMMEDALAHMADI1/ems-bench)** | Bilingual Arabic/English benchmark of 150 EMS protocol-reasoning items (START/JumpSTART triage, AHA weight-based dosing with unit traps, SBAR, contradiction traps), deterministic scorer, and an Arabic-English parity metric. |
-| 🔍 **[ems-response-audit-task](https://github.com/MOHAMMEDALAHMADI1/ems-response-audit-task)** | A multi-bug software-engineering eval task for coding agents: a dispatch-analytics codebase whose KPI silently "improves" after a schema migration. Graded by a hidden, cheat-resistant grader on fresh synthetic data. |
+| 🚑 **[ems-dispatch-ai](https://github.com/MOHAMMEDYOUSEFALAHMADI/ems-dispatch-ai)** | Demand forecasting (gradient boosting), ambulance posting optimisation (MCLP, exact MILP), dispatch simulation and a Streamlit map dashboard for Riyadh (synthetic data). In simulation it cut median response from 9.9 to 7.8 min and raised the share of calls reached within 8 min from 33 % to 52 %. |
+| 🧪 **[ems-bench](https://github.com/MOHAMMEDYOUSEFALAHMADI/ems-bench)** | Bilingual Arabic/English benchmark of 150 EMS protocol-reasoning items (START/JumpSTART triage, AHA weight-based dosing with unit traps, SBAR, contradiction traps), deterministic scorer, and an Arabic-English parity metric. |
+| 🔍 **[ems-response-audit-task](https://github.com/MOHAMMEDYOUSEFALAHMADI/ems-response-audit-task)** | A multi-bug software-engineering eval task for coding agents: a dispatch-analytics codebase whose KPI silently "improves" after a schema migration. Graded by a hidden, cheat-resistant grader on fresh synthetic data. |
 
 <div dir="rtl" align="right">
 
@@ -175,12 +175,12 @@ A complete forecasting pipeline: series diagnosis, a Seasonal Naive benchmark fl
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MOHAMMEDALAHMADI1/international-airpassengers-project/main/img_mase.png" width="46%" alt="MASE comparison across models">
-<img src="https://raw.githubusercontent.com/MOHAMMEDALAHMADI1/international-airpassengers-project/main/img_fan.png" width="46%" alt="Forecast fan chart">
+<img src="https://raw.githubusercontent.com/MOHAMMEDYOUSEFALAHMADI/international-airpassengers-project/main/img_mase.png" width="46%" alt="MASE comparison across models">
+<img src="https://raw.githubusercontent.com/MOHAMMEDYOUSEFALAHMADI/international-airpassengers-project/main/img_fan.png" width="46%" alt="Forecast fan chart">
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/📁_Repository_·_المستودع-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHAMMEDALAHMADI1/international-airpassengers-project)
+[![Repository](https://img.shields.io/badge/📁_Repository_·_المستودع-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHAMMEDYOUSEFALAHMADI/international-airpassengers-project)
 [![Live report](https://img.shields.io/badge/🌐_Live_report_·_صفحة_العرض-c2610e?style=for-the-badge)](https://mohammedalahmadi1.github.io/international-airpassengers-project/)
 
 </div>
@@ -201,19 +201,19 @@ A complete forecasting pipeline: series diagnosis, a Seasonal Naive benchmark fl
 
 | Programme · البرنامج | Provider · الجهة | Output · المخرَج |
 |---|---|---|
-| Time Series & Forecasting · السلاسل الزمنية والتنبؤ | SDAIA | [Capstone project ↗](https://github.com/MOHAMMEDALAHMADI1/international-airpassengers-project) |
+| Time Series & Forecasting · السلاسل الزمنية والتنبؤ | SDAIA | [Capstone project ↗](https://github.com/MOHAMMEDYOUSEFALAHMADI/international-airpassengers-project) |
 
 ---
 
 ## 📫 Contact · التواصل
 
-- GitHub: [@MOHAMMEDALAHMADI1](https://github.com/MOHAMMEDALAHMADI1)
+- GitHub: [@MOHAMMEDYOUSEFALAHMADI](https://github.com/MOHAMMEDYOUSEFALAHMADI)
 
 ---
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MOHAMMEDALAHMADI1&show_icons=true&hide_border=true&include_all_commits=true&hide=issues&card_width=430)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDALAHMADI1&layout=compact&hide_border=true&card_width=330)
+![Stats](https://github-readme-stats.vercel.app/api?username=MOHAMMEDYOUSEFALAHMADI&show_icons=true&hide_border=true&include_all_commits=true&hide=issues&card_width=430)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDYOUSEFALAHMADI&layout=compact&hide_border=true&card_width=330)
 
 </div>
