@@ -2,7 +2,9 @@
 
 # Mohammed Alahmadi
 
-### EMS & Critical Care · Healthcare Operations & Quality · AI in Healthcare · Healthcare Business Strategy · Healthcare Leadership
+### Developer & Data Analyst · EMS & Critical Care · Healthcare Operations & Quality · AI in Healthcare · Healthcare Business Strategy · Healthcare Leadership
+
+**MSc Healthcare Leadership & Management · PhD Candidate**
 
 <sub>تحليل بيانات الرعاية الصحية والجودة · ذكاء الأعمال · النمذجة التنبؤية · الذكاء الاصطناعي</sub>
 
@@ -16,6 +18,9 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/Minitab-C8102E?style=for-the-badge">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
@@ -24,15 +29,21 @@
 
 ## About · نبذة
 
-I am an **Emergency Medical Services & Critical Care professional**, working in prehospital care since 2012. I turn operational and clinical data into decisions — from cleaning and exploration, to modelling, to rigorous validation, to a dashboard or report a decision-maker can act on.
+I am a **developer and data analyst** with a frontline background in **Emergency Medical Services & Critical Care** (prehospital care since 2012), an **MSc in Healthcare Leadership & Management**, and a **PhD candidate**. I build data and AI systems for healthcare operations: forecasting models, optimisation engines, evaluation benchmarks and decision dashboards.
 
-My background sits where **healthcare operations** meets **quantitative analysis**: I don't stop at the number, I trace the process that produced it.
+**What I build**
+- **ML & forecasting**: gradient boosting, time-series models, rolling-origin validation, uncertainty calibration
+- **Operations research**: maximal-coverage location models (MCLP / MILP), discrete-event dispatch simulation
+- **LLM & agent evaluation**: bilingual Arabic/English benchmarks, hidden graders, cheat-resistant SWE eval tasks
+- **Engineering practice**: Python, typed and tested code (pytest), ruff, GitHub Actions CI, Streamlit dashboards
+
+I don't stop at the number: I trace the process that produced it, then ship a tested tool a decision-maker can act on.
 
 > A model is not judged by its accuracy on one split, but by its stability across many validation windows.
 
 <div dir="rtl" align="right">
 
-أحوّل البيانات التشغيلية والسريرية إلى قرارات: من تنظيف البيانات واستكشافها، إلى بناء النموذج، إلى التحقق الصارم من نتيجته، ثم عرضها في لوحة أو تقرير يستطيع صاحب القرار التصرّف بناءً عليه.
+مطوّر ومحلل بيانات بخلفية ميدانية في الإسعاف والرعاية الحرجة، حاصل على ماجستير القيادة والإدارة الصحية ومرشح للدكتوراه. أحوّل البيانات التشغيلية والسريرية إلى قرارات: من تنظيف البيانات واستكشافها، إلى بناء النموذج، إلى التحقق الصارم من نتيجته، ثم عرضها في لوحة أو تقرير يستطيع صاحب القرار التصرّف بناءً عليه.
 
 خلفيتي عند تقاطع **عمليات الرعاية الصحية** مع **التحليل الكمّي**: لا أتوقف عند الرقم، بل أتتبّع العملية التي أنتجته.
 
@@ -60,7 +71,7 @@ My background sits where **healthcare operations** meets **quantitative analysis
 
 ## 📈 Data Analysis & Forecasting · تحليل البيانات والتنبؤ
 
-`Python` · `Pandas` · `Jupyter` · Time series · STL decomposition · Rolling-origin cross-validation · MASE / RMSSE / CRPS · Trend & regression analysis
+`Python` · `Pandas` · `NumPy` · `scikit-learn` · `SciPy` · `Streamlit` · `pytest` · `Jupyter` · Gradient boosting · MCLP / MILP optimisation · Simulation · Time series · STL decomposition · Rolling-origin cross-validation · MASE / RMSSE / CRPS · Trend & regression analysis
 
 <div dir="rtl" align="right">
 
@@ -181,7 +192,7 @@ A complete forecasting pipeline: series diagnosis, a Seasonal Naive benchmark fl
 <br><br>
 
 [![Repository](https://img.shields.io/badge/📁_Repository_·_المستودع-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHAMMEDYOUSEFALAHMADI/international-airpassengers-project)
-[![Live report](https://img.shields.io/badge/🌐_Live_report_·_صفحة_العرض-c2610e?style=for-the-badge)](https://mohammedalahmadi1.github.io/international-airpassengers-project/)
+[![Live report](https://img.shields.io/badge/🌐_Live_report_·_صفحة_العرض-c2610e?style=for-the-badge)](https://mohammedyousefalahmadi.github.io/international-airpassengers-project/)
 
 </div>
 
@@ -201,6 +212,7 @@ A complete forecasting pipeline: series diagnosis, a Seasonal Naive benchmark fl
 
 | Programme · البرنامج | Provider · الجهة | Output · المخرَج |
 |---|---|---|
+| MSc Healthcare Leadership & Management · ماجستير القيادة والإدارة الصحية | University of Warwick | — |
 | Time Series & Forecasting · السلاسل الزمنية والتنبؤ | SDAIA | [Capstone project ↗](https://github.com/MOHAMMEDYOUSEFALAHMADI/international-airpassengers-project) |
 
 ---
