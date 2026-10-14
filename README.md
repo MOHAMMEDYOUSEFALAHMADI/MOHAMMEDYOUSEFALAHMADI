@@ -2,7 +2,7 @@
 
 # Mohammed Alahmadi
 
-### EMS Specialist (Saudi Red Crescent Authority, since 2012) · Healthcare Operations & Quality · AI in Healthcare
+### EMS & Critical Care · Healthcare Operations & Quality · AI in Healthcare · Healthcare Business Strategy · Healthcare Leadership
 
 <sub>تحليل بيانات الرعاية الصحية والجودة · ذكاء الأعمال · النمذجة التنبؤية · الذكاء الاصطناعي</sub>
 
@@ -24,7 +24,7 @@
 
 ## About · نبذة
 
-I am an **Emergency Medical Services Specialist at the Saudi Red Crescent Authority (SRCA)**, working in prehospital care since 2012. I turn operational and clinical data into decisions — from cleaning and exploration, to modelling, to rigorous validation, to a dashboard or report a decision-maker can act on.
+I am an **Emergency Medical Services & Critical Care professional**, working in prehospital care since 2012. I turn operational and clinical data into decisions — from cleaning and exploration, to modelling, to rigorous validation, to a dashboard or report a decision-maker can act on.
 
 My background sits where **healthcare operations** meets **quantitative analysis**: I don't stop at the number, I trace the process that produced it.
 
