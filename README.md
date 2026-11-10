@@ -123,6 +123,24 @@ AutoGluon (AutoML) · اختيار النماذج وتقييمها · معاير
 
 <div align="center">
 
+## Featured Projects · Healthcare Operations, Quality, PMO and AI
+
+</div>
+
+Five interactive Streamlit applications built on synthetic data, each with a test suite, documented KPI definitions and scenario tools.
+
+| Project | What it does |
+|---|---|
+| **[EMS Operations Dashboard](https://github.com/MOHAMMEDYOUSEFALAHMADI/ems-operations-dashboard)** | Response-time compliance by priority, sector and station, call-to-dispatch and travel intervals, demand heatmap, unit hour utilisation and a what-if simulator for faster dispatch or shorter travel. |
+| **[Healthcare Quality & Patient Safety KPI Tracker](https://github.com/MOHAMMEDYOUSEFALAHMADI/healthcare-quality-kpi-tracker)** | Accreditation-style monthly scorecard for falls, medication errors, hand hygiene, CLABSI and CAUTI, with SPC control charts, incident drill-down, RCA fishbone, improvement scenarios and Excel export. |
+| **[PMO Portfolio & Strategy Execution Tracker](https://github.com/MOHAMMEDYOUSEFALAHMADI/pmo-portfolio-tracker)** | Links projects to strategic objectives with earned-value (SPI/CPI) RAG status, project drill-down, risk heatmap, budget vs actual, weighted prioritisation and a recovery scenario. |
+| **[Healthcare Revenue Cycle Analytics](https://github.com/MOHAMMEDYOUSEFALAHMADI/healthcare-revenue-cycle-analytics)** | Clean-claim and denial rates, preventable denials by payer and reason, days in A/R, net collection rate, service-line margin, cash forecast and a denial-prevention scenario model. |
+| **[AI ED Triage & Patient-Flow Assistant](https://github.com/MOHAMMEDYOUSEFALAHMADI/ai-ed-triage-assistant)** | Explainable acuity and admission models (scikit-learn, SHAP) with under-triage reporting, decision-threshold analysis, bias checks, a model card and an ED arrivals forecast. Not for clinical use. |
+
+---
+
+<div align="center">
+
 ## ⭐ Featured Projects · مشاريع مميزة
 
 </div>
@@ -219,6 +237,7 @@ A complete forecasting pipeline: series diagnosis, a Seasonal Naive benchmark fl
 
 ## 📫 Contact · التواصل
 
+- LinkedIn: [linkedin.com/in/mohyou](https://www.linkedin.com/in/mohyou)
 - GitHub: [@MOHAMMEDYOUSEFALAHMADI](https://github.com/MOHAMMEDYOUSEFALAHMADI)
 
 ---
